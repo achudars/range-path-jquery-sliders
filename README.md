@@ -10,4 +10,4 @@ Libraries used:
 * jQRangeSlider
 * Pathslider
 
-<a href="http://imgur.com/zuJzBOI"><img src="http://i.imgur.com/zuJzBOI.png" title="Hosted by imgur.com" /></a>
+<a href="http://imgur.com/kDTxYvC"><img src="http://i.imgur.com/kDTxYvC.png" title="Hosted by imgur.com" /></a>
