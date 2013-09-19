@@ -59,11 +59,9 @@ $(function() {
 
 
 	/* jqRangeSlider sliders */
-	/*hJQRange.rangeSlider({range: {min: 10}});*/
-
 	hJQRange.bind("valuesChanged", function(e, data){
 		$( "#hJQRangeAmount" ).text( data.values.min.toFixed(0) + " - " + data.values.max.toFixed(0) );
-	});
+	}).rangeSlider({range: {min: 1}});
 
 	/* Pathslider sliders */
 	$("#vCurvedSlider").pathslider({
